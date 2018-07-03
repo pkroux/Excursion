@@ -1,0 +1,57 @@
+html {
+  background-color: black;
+  font-family: verdana;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  font-weight: normal;
+  font-family: verdana;
+}
+
+.second {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.remembers {
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+
+.phone {
+  display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+}
+
+.tent {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+.download {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.excursion {
+  font-size: 21px;
+  color: gray;
+  text-align: right;
+}
+
+.video {
+  display: block;
+margin: 0 auto;
+align: center;
+}
